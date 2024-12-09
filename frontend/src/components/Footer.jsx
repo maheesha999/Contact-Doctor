@@ -8,8 +8,9 @@ const Footer = () => {
         {/*--left--*/}
         <div>
             <img className='mb-5 w-40' src={assets.logo} alt='' />
-            <p className='w-full md:w-2/3 text-gray-600 leading-6'>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-                aaaaaaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddddddddddddaa</p>
+            <p className='w-full md:w-2/3 text-gray-600 leading-6'>Experience seamless and reliable doctor channelling with our app. 
+            Book appointments with top specialists, access your medical history, and stay informed about your health—all from
+             the comfort of your home. Your health, our priority.</p>
 
         </div>
 
